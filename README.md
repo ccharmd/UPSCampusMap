@@ -1,4 +1,4 @@
-## Croudsourcing Campus Map
+## Croudsourced Campus Map
 
 Intro: here's a sentence on what we can doing....
 
